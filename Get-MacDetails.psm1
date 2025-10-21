@@ -35,7 +35,7 @@
     Get-MacDetails -Vcenter "vc01" -AutoMac:$true
 
 .NOTES
-    Author: Jennifer Parsons
+    Author: SimGamerJen
     Date:   January 19, 2017    
     Last updated: Jul 10, 2020
     Version 2.4
@@ -153,3 +153,4 @@ If ($enablemail) {
 }
 }
 Export-ModuleMember -Function Get-MacDetails
+
