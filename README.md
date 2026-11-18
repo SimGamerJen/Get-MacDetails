@@ -171,9 +171,6 @@ Copyright © 2026 SimGamerJen. All rights reserved.
 
 You may download and use this software for personal use. You may not modify, redistribute, re-upload, or publish this software, in whole or in part, or any derivative version without prior written permission from SimGamerJen.
 
----
-
 ## Author
 
 SimGamerJen
-
